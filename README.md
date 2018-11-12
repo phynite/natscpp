@@ -1,7 +1,8 @@
 # natscpp
 
 ## Getting started
-natscpp is a C++ wrapper for the nats client provided by Synadia.\n
+natscpp is a C++ wrapper for the nats client provided by Synadia.
+
 It works by adding reactors to the client with a topic name and a callback.
 
 ## Easy to use
